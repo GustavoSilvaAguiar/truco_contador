@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="tech.starly.truco_contador">
    <application
-        android:label="truco_contador"
+        android:label="Placar truco"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
